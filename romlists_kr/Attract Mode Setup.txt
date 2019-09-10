@@ -1,0 +1,29 @@
+romlist_create;★ 한글 ROM 리스트 생성 ★;Attract Mode Setup;;;;;;;;;;;;;;
+filemanager;파일 매니저;Attract Mode Setup;;;;;;;;;;;;;;
+Audio Settings;오디오 설정;Attract Mode Setup;;;;;;;;;;;;;;
+Bluetooth;블루투스 설정;Attract Mode Setup;;;;;;;;;;;;;;
+runcommand;런커맨드 설정;Attract Mode Setup;;;;;;;;;;;;;;
+splashscreen;부팅 스플래쉬 설정;Attract Mode Setup;;;;;;;;;;;;;;
+wifi;WIFI 설정;Attract Mode Setup;;;;;;;;;;;;;;
+raspiconfig;Rasconfig Setup;Attract Mode Setup;;;;;;;;;;;;;;
+RetroPie Setup;RetroPie Setup;Attract Mode Setup;;;;;;;;;;;;;;
+Show IP Address;아이피 확인;Attract Mode Setup;;;;;;;;;;;;;;
+Reboot;재부팅;Attract Mode Setup;;;;;;;;;;;;;;
+Shutdown;시스템 종료;Attract Mode Setup;;;;;;;;;;;;;;
+scanlineOn;스캔라인 ON;Attract Mode Setup;;;;;;;;;;;;;;
+scanlineOff;스캔라인 OFF;Attract Mode Setup;;;;;;;;;;;;;;
+gpio1p;GPIO 1P 사용;Attract Mode Setup;;;;;;;;;;;;;;
+gpio2p;GPIO 1P 2P 사용;Attract Mode Setup;;;;;;;;;;;;;;
+gpioOff;GPIO 미사용;Attract Mode Setup;;;;;;;;;;;;;;
+oledOn;OLED ON;Attract Mode Setup;;;;;;;;;;;;;;
+oledOff;OLED OFF;Attract Mode Setup;;;;;;;;;;;;;;
+cfgBackup;어트랙트 설정 백업;Attract Mode Setup;;;;;;;;;;;;;;
+useWifi;WIFI 활성화;Attract Mode Setup;;;;;;;;;;;;;;
+stopWifi;WIFI 비활성화;Attract Mode Setup;;;;;;;;;;;;;;
+control_updater_menu;GPI 컨트롤러 Custom;Attract Mode Setup;;;;;;;;;;;;;;
+stopService;불필요 서비스 비활성화;Attract Mode Setup;;;;;;;;;;;;;;
+startService;서비스 활성화;Attract Mode Setup;;;;;;;;;;;;;;
+Generate Favorites Romlist;즐겨찾기 목록 만들기;Attract Mode Setup;;;;;;;;;;;;;;
+
+
+
